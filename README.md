@@ -1,2 +1,3 @@
 # PEMDAS-Calculator
-Calculates values of mathmatical expressions. 
+
+This code will accept +, -, *, /, ^ (), numbers/decimals, and ANS (previous answer) and calculate the value of the resulting mathmatical expression. 
