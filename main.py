@@ -13,8 +13,6 @@ def numBefore(string, index):
 	for  x in reversed(range(0, index)):
 		if (not string[x].isdigit() and not string[x] == "-" and not string[x] == "."):
 				break
-
-
 		value+= string[x]
 		if(string[x] == "-"):
 			break
